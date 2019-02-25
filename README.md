@@ -23,6 +23,10 @@ C#, Entity Framework,code first, SQL, ASP.NET, MVC, MVVM, LINQ, ООП, HTML, CS
 - [PadawansTask13](https://github.com/AAleksanderr/PadawansTask13)
 - [FancyCalc](https://github.com/AAleksanderr/FancyCalc)
 
+### Codewars
+
+- [https://www.codewars.com/users/AAleksanderr](https://www.codewars.com/users/AAleksanderr)
+
 ### Contact
 
 +375293334224
