@@ -8,6 +8,7 @@ C#, Entity Framework,code first, SQL, ASP.NET, MVC, MVVM, LINQ, ООП, HTML, CS
 
 ### My projects
 
+- [BasicCollection](https://github.com/AAleksanderr/BasicCollection.git)
 - [Unit-testing-intro](https://github.com/AAleksanderr/Unit-testing-intro)
 - [NUnit-testing-intro](https://github.com/AAleksanderr/NUnit-testing-intro)
 - [PadawansTask1](https://github.com/AAleksanderr/PadawansTask1)
