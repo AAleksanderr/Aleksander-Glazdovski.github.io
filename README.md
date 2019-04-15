@@ -4,7 +4,7 @@ Junior .NET Developer. 39 years old.
 
 ### My skills
 
-C#, Entity Framework,code first, SQL, ASP.NET, MVC, MVVM, LINQ, ООП, HTML, CSS, JSON, Git
+C#, Entity Framework,code first, SQL, ASP.NET, MVC, WPF, MVVM, LINQ, ООП, HTML, CSS, JSON, Git
 
 ### My projects
 
