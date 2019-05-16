@@ -30,10 +30,10 @@ C#, Entity Framework,code first, SQL, ASP.NET, MVC, WPF, MVVM, LINQ, ООП, HTM
 
 - [https://www.codewars.com/users/AAleksanderr](https://www.codewars.com/users/AAleksanderr)
 
-### Contact
-
 ### English
 
 Pre-Intermediate
+
+### Contact
 
 +375293334224
