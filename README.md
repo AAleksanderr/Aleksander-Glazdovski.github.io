@@ -24,6 +24,7 @@ C#, Entity Framework,code first, SQL, ASP.NET, MVC, WPF, MVVM, LINQ, ООП, HTM
 - [PadawansTask13](https://github.com/AAleksanderr/PadawansTask13)
 - [FancyCalc](https://github.com/AAleksanderr/FancyCalc)
 - [CustomCollectionsWhithXmlParser](https://github.com/AAleksanderr/MyCustomCollectionsWhithXmlParser)
+- [WPF-MVVM-project](https://github.com/AAleksanderr/TexodeTask2)
 
 ### Codewars
 
