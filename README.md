@@ -32,4 +32,8 @@ C#, Entity Framework,code first, SQL, ASP.NET, MVC, WPF, MVVM, LINQ, ООП, HTM
 
 ### Contact
 
+### English
+
+Pre-Intermediate
+
 +375293334224
