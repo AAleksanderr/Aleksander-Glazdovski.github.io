@@ -8,12 +8,12 @@ C#, .Net Core, Entity Framework, SQL, MVC, MVVM, WPF, WCF, WebAPI, LINQ, ООП,
 
 ### My projects
 
+- [WPF-MVVM-project](https://github.com/AAleksanderr/TexodeTask2)
+- [CustomCollectionsWhithXmlParser](https://github.com/AAleksanderr/MyCustomCollectionsWhithXmlParser)
 - [BasicCollection](https://github.com/AAleksanderr/BasicCollection.git)
 - [Unit-testing-intro](https://github.com/AAleksanderr/Unit-testing-intro)
 - [NUnit-testing-intro](https://github.com/AAleksanderr/NUnit-testing-intro)
 - [FancyCalc](https://github.com/AAleksanderr/FancyCalc)
-- [CustomCollectionsWhithXmlParser](https://github.com/AAleksanderr/MyCustomCollectionsWhithXmlParser)
-- [WPF-MVVM-project](https://github.com/AAleksanderr/TexodeTask2)
 
 ### Codewars
 
