@@ -9,6 +9,7 @@ C#, .Net Core, Entity Framework, SQL, MVC, MVVM, WPF, WCF, WebAPI, LINQ, ООП,
 ### My projects
 
 - [WPF-MVVM-project](https://github.com/AAleksanderr/TexodeTask2)
+- [WebAPI-WCF-Northwind-AutoMapper](https://github.com/AAleksanderr/northwind-basic-app)
 - [CustomCollectionsWhithXmlParser](https://github.com/AAleksanderr/MyCustomCollectionsWhithXmlParser)
 - [BasicCollection](https://github.com/AAleksanderr/BasicCollection.git)
 - [Unit-testing-intro](https://github.com/AAleksanderr/Unit-testing-intro)
