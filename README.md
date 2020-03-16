@@ -1,6 +1,6 @@
 ## About me
 
-Junior .NET Developer. 40 years old.
+.NET Developer. 40 years old.
 
 ### My skills
 
@@ -10,15 +10,8 @@ C#, .Net Core, Entity Framework, SQL, MVC, MVVM, WPF, WCF, WebAPI, LINQ, ООП,
 
 - [WPF-MVVM-project](https://github.com/AAleksanderr/TexodeTask2)
 - [WebAPI-WCF-Northwind-AutoMapper](https://github.com/AAleksanderr/northwind-basic-app)
-- [CustomCollectionsWhithXmlParser](https://github.com/AAleksanderr/MyCustomCollectionsWhithXmlParser)
-- [BasicCollection](https://github.com/AAleksanderr/BasicCollection.git)
 - [Unit-testing-intro](https://github.com/AAleksanderr/Unit-testing-intro)
 - [NUnit-testing-intro](https://github.com/AAleksanderr/NUnit-testing-intro)
-- [FancyCalc](https://github.com/AAleksanderr/FancyCalc)
-
-### Codewars
-
-- [https://www.codewars.com/users/AAleksanderr](https://www.codewars.com/users/AAleksanderr)
 
 ### English
 
